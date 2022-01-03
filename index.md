@@ -9,7 +9,7 @@ More recently, my focus has shifted more to the general statistical problem of f
 ## Selected papers
 
 - **Incremental causal effects: an introduction and review** \\
-	M. Bonvini, (A. McClean), Z. Branson, and E. H. Kennedy \\
+	M. Bonvini, [A. McClean], Z. Branson, and E. H. Kennedy \\
     [arxiv](https://arxiv.org/abs/2110.10532.pdf)
 
 See [google scholar](https://scholar.google.com/citations?user=OhdLY5oAAAAJ&hl=en&oi=ao) for a full list.
