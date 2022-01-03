@@ -25,7 +25,7 @@ See [google scholar](https://scholar.google.com/citations?user=OhdLY5oAAAAJ&hl=e
 
 ## Teaching
 
-Fall 2019: Modern Regression (36-401); a junior / senior level methods class
-Spring 2021: Advanced Methods for Data Analysis (36-402); the follow-up to 36-401, introduces students to non-parametric methods.
-Fall 2020 and 2021: Statistical Reasoning with R (90711); a first year master's level course to introduce statistics and statistical methods (and causal inference) to public policy students
+* Fall 2019: Modern Regression (36-401); a junior / senior level methods class
+* Spring 2021: Advanced Methods for Data Analysis (36-402); the follow-up to 36-401, introduces students to non-parametric methods.
+* Fall 2020 and 2021: Statistical Reasoning with R (90711); a first year master's level course to introduce statistics and statistical methods (and causal inference) to public policy students
  
