@@ -18,7 +18,7 @@ See [google scholar](https://scholar.google.com/citations?user=OhdLY5oAAAAJ&hl=e
 
 ## Connect 
 
-* Email: [amcclean@cmu.edu](mailto:amcclean@cmu.edu)
+* Email: [alec@stat.cmu.edu](mailto:alec@stat.cmu.edu)
 * Github: [alecmcclean](https://github.com/alecmcclean)
 
 ---
