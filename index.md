@@ -6,7 +6,7 @@ As of December 2022 (the time of writing), I'm a 4th year PhD student in [Statis
 
 More recently, my focus has shifted more to the general statistical problem of functional estimation, and obtaining minimax optimal estimators. 
 
-## Selected papers
+## Papers
 - **Nonparametric Estimation of Conditional Incremental Effects** \\
 	***A. McClean***, Z. Branson, and E. H. Kennedy \\
 	[arxiv](https://arxiv.org/abs/2212.03578)
