@@ -28,11 +28,13 @@ More recently, my focus has shifted more to the general statistical problem of f
 
 ## Teaching
 ### As Course Instructor
-* Introduction to Statistical Inference 36-226 (Summer 2022): sophomore-level introduction to statistical inference
+* *Introduction to Statistical Inference* 36-226 (Summer 2022): sophomore-level introduction to statistical inference
 
 ### As TA
-* Modern Regression 36-401 (Fall 2019): a junior / senior level methods class
-* Advanced Methods for Data Analysis 36-402 (Spring 2021): the follow-up to 36-401, introduces students to non-parametric methods.
-* Statistical Reasoning with R 90-711 (Fall 2020 and 2021): a first year master's level course to introduce statistics and statistical methods (and causal inference) to public policy students
-* Introduction to Causal Inference 36-318 (Spring 2022): introductory causal inference for undergraduate students
-* Foundations and Modern Causal Inference 36-731 & 36-732 (Fall 2022): introductory and advanced causal inference for graduate students
+* *Modern Regression* 36-401 (Fall 2019): a junior / senior level methods class
+* *Advanced Methods for Data Analysis* 36-402 (Spring 2021): the follow-up to 36-401, introduces students to non-parametric methods.
+* *Statistical Reasoning with R* 90-711 (Fall 2020 and 2021): a first year master's level course to introduce statistics and statistical methods (and causal inference) to public policy students
+* *Introduction to Causal Inference 36-318* (Spring 2022): introductory causal inference for undergraduate students
+* *Foundations and Modern Causal Inference* 36-731 & 36-732 (Fall 2022): introductory and advanced causal inference for graduate students
+
+
