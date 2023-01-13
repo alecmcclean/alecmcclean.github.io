@@ -40,8 +40,7 @@ More recently, my focus has shifted more to the general statistical problem of f
 --- 
 
 ## Service
-
-CMU Statistics Student Activites Committee representative
-Pittsburgh ASA CMU student represenatative
+* CMU Statistics Student Activites Committee representative
+* Pittsburgh ASA CMU student represenatative
 
 
