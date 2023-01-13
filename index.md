@@ -37,4 +37,11 @@ More recently, my focus has shifted more to the general statistical problem of f
 * *Introduction to Causal Inference 36-318* (Spring 2022): introductory causal inference for undergraduate students
 * *Foundations and Modern Causal Inference* 36-731 & 36-732 (Fall 2022): introductory and advanced causal inference for graduate students
 
+--- 
+
+## Service
+
+CMU Statistics Student Activites Committee representative
+Pittsburgh ASA CMU student represenatative
+
 
