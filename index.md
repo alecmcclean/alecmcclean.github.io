@@ -43,4 +43,4 @@ More recently, my focus has shifted more to the general statistical problem of f
 * CMU Statistics Student Activites Committee representative
 * Pittsburgh ASA CMU student represenatative
 
-
+ 
