@@ -46,6 +46,6 @@ I am broadly interested in statistics, machine learning, and causal inference.  
 
 ## Service
 * CMU Statistics Student Activites Committee representative
-* Pittsburgh ASA CMU student represenatative
+* Pittsburgh ASA CMU student representative
 
 <br/><br/>
