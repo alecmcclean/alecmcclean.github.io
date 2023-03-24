@@ -4,6 +4,13 @@ layout: default
 
 As of March 2023 (the time of writing), I'm a 4th year PhD student in [Statistics at Carnegie Mellon University](http://stat.cmu.edu/).  I am advised by [Zach Branson](https://sites.google.com/site/zjbranson/?pli=1) and [Edward Kennedy](https://www.ehkennedy.com/), and also have the pleasure of working with [Siva Balakrishnan](https://www.stat.cmu.edu/~siva/) and [Larry Wasserman](https://www.stat.cmu.edu/~larry/). 
 
+Prior to my PhD, I worked for three years as a Research Analyst (and then Senior Research Analyst) at the Brattle Group, helping analyze data and build statistical (or, econometric) models for legal, regulatory, and policy issues.  Before that, I studied Math and Econ at Swarthmore College.  
+
+I am broadly interested in statistics, machine learning, and causal inference.  Some topics I've worked on include:
+- Stochastic and dynamic interventions for observational causal inference
+- Nonparametric double robust minimax estimation
+- Heterogeneous effect estimation
+
 ## Papers
 - **Nonparametric Estimation of Conditional Incremental Effects** \\
 	***A. McClean***, Z. Branson, and E. H. Kennedy \\
