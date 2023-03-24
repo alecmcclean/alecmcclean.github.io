@@ -2,9 +2,7 @@
 layout: default
 ---
 
-As of December 2022 (the time of writing), I'm a 4th year PhD student in [Statistics at Carnegie Mellon University](http://stat.cmu.edu/).  I am advised by [Zach Branson](https://sites.google.com/site/zjbranson/?pli=1) and [Edward Kennedy](https://www.ehkennedy.com/), and also have the pleasure of working with [Siva Balakrishnan](https://www.stat.cmu.edu/~siva/) and [Larry Wasserman](https://www.stat.cmu.edu/~larry/).  I came to statistics via the wonderful world of economics and econometrics, so interests initially involved and still relate to causal inference and the estimation of treatment effects.
-
-More recently, my focus has shifted more to the general statistical problem of nonparametric functional estimation. 
+As of March 2023 (the time of writing), I'm a 4th year PhD student in [Statistics at Carnegie Mellon University](http://stat.cmu.edu/).  I am advised by [Zach Branson](https://sites.google.com/site/zjbranson/?pli=1) and [Edward Kennedy](https://www.ehkennedy.com/), and also have the pleasure of working with [Siva Balakrishnan](https://www.stat.cmu.edu/~siva/) and [Larry Wasserman](https://www.stat.cmu.edu/~larry/). 
 
 ## Papers
 - **Nonparametric Estimation of Conditional Incremental Effects** \\
