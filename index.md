@@ -4,12 +4,14 @@ layout: default
 
 As of March 2023 (the time of writing), I'm a 4th year PhD student in [Statistics at Carnegie Mellon University](http://stat.cmu.edu/).  I am advised by [Zach Branson](https://sites.google.com/site/zjbranson/?pli=1) and [Edward Kennedy](https://www.ehkennedy.com/), and also have the pleasure of working with [Siva Balakrishnan](https://www.stat.cmu.edu/~siva/) and [Larry Wasserman](https://www.stat.cmu.edu/~larry/). 
 
-Prior to my PhD, I worked for three years as a Research Analyst (and then Senior Research Analyst) at the Brattle Group, helping analyze data and build statistical (or, econometric) models for legal, regulatory, and policy issues.  Before that, I studied Math and Econ at Swarthmore College.  
-
 I am broadly interested in statistics, machine learning, and causal inference.  Some topics I've worked on include:
 - Stochastic and dynamic interventions for observational causal inference
 - Nonparametric double robust minimax estimation
 - Heterogeneous effect estimation
+
+As part of my PhD, I've also had the opportunity to TA many courses relating to causal inference and other areas of statistics.  I have also taught CMU's Sophomore level *Introduction to Statistical Inference*.
+
+Prior to my PhD, I worked for three years as a Research Analyst (and then Senior Research Analyst) at the Brattle Group, helping analyze data and build statistical (or, econometric) models for legal, regulatory, and policy issues.  Before that, I studied Math and Econ at Swarthmore College.  
 
 ## Papers
 - **Nonparametric Estimation of Conditional Incremental Effects** \\
@@ -39,7 +41,7 @@ I am broadly interested in statistics, machine learning, and causal inference.  
 * *Modern Regression* 36-401 (Fall 2019): a junior / senior level methods class
 * *Advanced Methods for Data Analysis* 36-402 (Spring 2021): the follow-up to 36-401, introduces students to non-parametric methods.
 * *Statistical Reasoning with R* 90-711 (Fall 2020 and 2021): a first year master's level course to introduce statistics and statistical methods (and causal inference) to public policy students
-* *Introduction to Causal Inference 36-318* (Spring 2022): introductory causal inference for undergraduate students
+* *Introduction to Causal Inference 36-318* (Spring 2022 and 2023): introductory causal inference for undergraduate students
 * *Foundations and Modern Causal Inference* 36-731 & 36-732 (Fall 2022): introductory and advanced causal inference for graduate students
 
 --- 
