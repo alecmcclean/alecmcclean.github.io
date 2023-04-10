@@ -20,7 +20,7 @@ Prior to my PhD, I worked for three years as a Research Analyst (and then Senior
 
 - **Incremental causal effects: an introduction and review** \\
 	M. Bonvini, ***A. McClean***, Z. Branson, and E. H. Kennedy \\
-	Handbook of Matching and Weighting in Causal Inference, 2023, [arxiv](https://arxiv.org/abs/2110.10532)
+	*Handbook of Matching and Weighting in Causal Inference*, 2023, [arxiv](https://arxiv.org/abs/2110.10532)
 
 [Google Scholar](https://scholar.google.com/citations?user=OhdLY5oAAAAJ&hl=en&oi=ao)
 
