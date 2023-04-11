@@ -9,7 +9,7 @@ I am broadly interested in statistics, machine learning, and causal inference.  
 - Nonparametric double robust minimax estimation
 - Heterogeneous effect estimation
 
-As part of my PhD, I've also had the opportunity to TA many courses relating to causal inference and other areas of statistics.  And, I was the instructor CMU's Sophomore level *Introduction to Statistical Inference*.
+As part of my PhD, I've also had the opportunity to TA many courses relating to causal inference and other areas of statistics.  And, I instructed CMU's Sophomore level *Introduction to Statistical Inference*.
 
 Prior to my PhD, I worked for three years as a Research Analyst (and then Senior Research Analyst) at the Brattle Group, helping analyze data and build statistical (or, econometric) models for legal, regulatory, and policy issues.  Before that, I studied Math and Econ at Swarthmore College. 
 
