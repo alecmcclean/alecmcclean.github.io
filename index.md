@@ -6,7 +6,7 @@ I am currently a 4th-year PhD student in [Statistics at Carnegie Mellon Universi
 
 During my PhD, I have gained experience as a teaching assistant for several courses related to causal inference and other areas of statistics. I also instructed CMU's Sophomore-level *Introduction to Statistical Inference* course.
 
-I studied Mathematics and Economics at Swarthmore College.  Before starting my PhD, I worked for three years as a Research Analyst and later as a Senior Research Analyst at the Brattle Group. There, I helped analyze data and build statistical models for legal, regulatory, and policy issues. 
+I completed my undergraduate education at Swarthmore College, where I earned a Bachelor's degree in Mathematics and Economics in 2016.  Before starting my PhD, I worked for three years as a Research Analyst and later as a Senior Research Analyst at the Brattle Group. There, I helped analyze data and build statistical models for legal, regulatory, and policy issues. 
 
 
 ## Papers
