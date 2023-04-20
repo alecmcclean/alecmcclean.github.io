@@ -2,16 +2,12 @@
 layout: default
 ---
 
-As of March 2023 (the time of writing), I'm a 4th year PhD student in [Statistics at Carnegie Mellon University](http://stat.cmu.edu/).  I am advised by [Zach Branson](https://sites.google.com/site/zjbranson/?pli=1) and [Edward Kennedy](https://www.ehkennedy.com/), and also have the pleasure of working with [Siva Balakrishnan](https://www.stat.cmu.edu/~siva/) and [Larry Wasserman](https://www.stat.cmu.edu/~larry/). 
+I am currently a 4th-year PhD student in [Statistics at Carnegie Mellon University](http://stat.cmu.edu/), where I am advised by [Zach Branson](https://sites.google.com/site/zjbranson/?pli=1) and [Edward Kennedy](https://www.ehkennedy.com/). Additionally, I have the pleasure of working with [Siva Balakrishnan](https://www.stat.cmu.edu/~siva/) and [Larry Wasserman](https://www.stat.cmu.edu/~larry/). My primary research interests are in the fields of statistics, machine learning, and causal inference. Some of the topics I have worked on include stochastic and dynamic interventions for observational causal inference, nonparametric double robust minimax estimation, and heterogeneous effect estimation.
 
-I am broadly interested in statistics, machine learning, and causal inference.  Some topics I've worked on include:
-- Stochastic and dynamic interventions for observational causal inference
-- Nonparametric double robust minimax estimation
-- Heterogeneous effect estimation
+During my PhD, I have gained experience as a teaching assistant for several courses related to causal inference and other areas of statistics. I also instructed CMU's Sophomore-level Introduction to Statistical Inference course.
 
-As part of my PhD, I've also had the opportunity to TA many courses relating to causal inference and other areas of statistics.  And, I instructed CMU's Sophomore level *Introduction to Statistical Inference*.
+I studied Mathematics and Economics at Swarthmore College.  Before starting my PhD, I worked for three years as a Research Analyst and later as a Senior Research Analyst at the Brattle Group. There, I helped analyze data and build statistical models for legal, regulatory, and policy issues. 
 
-Prior to my PhD, I worked for three years as a Research Analyst (and then Senior Research Analyst) at the Brattle Group, helping analyze data and build statistical (or, econometric) models for legal, regulatory, and policy issues.  Before that, I studied Math and Econ at Swarthmore College. 
 
 ## Papers
 - **Nonparametric Estimation of Conditional Incremental Effects** \\
