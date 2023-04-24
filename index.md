@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I am currently a 4th-year PhD student in [Statistics at Carnegie Mellon University](http://stat.cmu.edu/), where I am advised by [Zach Branson](https://sites.google.com/site/zjbranson/?pli=1) and [Edward Kennedy](https://www.ehkennedy.com/). Additionally, I have the pleasure of working with [Siva Balakrishnan](https://www.stat.cmu.edu/~siva/) and [Larry Wasserman](https://www.stat.cmu.edu/~larry/). My primary research interests are in the fields of statistics, machine learning, and causal inference. Some of the topics I have worked on include stochastic and dynamic interventions for observational causal inference, nonparametric double robust minimax estimation, and heterogeneous effect estimation.
+I am currently a 4th-year PhD student in [Statistics at Carnegie Mellon University](http://stat.cmu.edu/), where I am advised by [Zach Branson](https://sites.google.com/site/zjbranson/?pli=1) and [Edward Kennedy](https://www.ehkennedy.com/). Additionally, I have the pleasure of working with [Siva Balakrishnan](https://www.stat.cmu.edu/~siva/) and [Larry Wasserman](https://www.stat.cmu.edu/~larry/). My primary research interests are at the intersection of statistics, machine learning, and causal inference. Some topics I have worked on include stochastic and dynamic interventions for observational causal inference, nonparametric double robust minimax estimation, and heterogeneous effect estimation.
 
 During my PhD, I have gained experience as a teaching assistant for several courses related to causal inference and other areas of statistics. I also instructed CMU's Sophomore-level *Introduction to Statistical Inference* course.
 
