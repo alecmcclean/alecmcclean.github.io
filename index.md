@@ -32,14 +32,14 @@ I completed my undergraduate education at Swarthmore College, where I earned a B
 
 ## Teaching
 ### As Course Instructor
-* *Introduction to Statistical Inference* 36-226 (Summer 2022): sophomore-level introduction to statistical inference
+* *Introduction to Statistical Inference* 36-226 (Summer 2022): a sophomore-level class; introduces students to statistical inference, covering point estimation, confidence intervals, and hypothesis testing.
 
-### As TA
-* *Modern Regression* 36-401 (Fall 2019): a junior / senior level methods class
-* *Advanced Methods for Data Analysis* 36-402 (Spring 2021): the follow-up to 36-401, introduces students to non-parametric methods.
-* *Statistical Reasoning with R* 90-711 (Fall 2020 and 2021): a first year master's level course to introduce statistics and statistical methods (and causal inference) to public policy students
-* *Introduction to Causal Inference 36-318* (Spring 2022 and 2023): introductory causal inference for undergraduate students
-* *Foundations and Modern Causal Inference* 36-731 & 36-732 (Fall 2022): introductory and advanced causal inference for graduate students
+### As Teaching Assistant
+* *Modern Regression* 36-401 (Fall 2019): a junior / senior level methods class; introduces students to simple and multiple linear regression.
+* *Advanced Methods for Data Analysis* 36-402 (Spring 2021 - served as Head TA): the follow-up to 36-401; introduces students to non-parametric methods, including generalized additive models, smoothing, and the bootstrap.
+* *Statistical Reasoning with R* 90-711 (Fall 2020 and 2021 - served as Head TA): a first year master's level class; introduces basic statistical theory and methods and causal inference to public policy students
+* *Introduction to Causal Inference 36-318* (Spring 2022 and 2023): introduces causal inference to undergraduate students; covers many topics including experiments, matching, IPW estimtors, outcome modeling, and doubly robust estimators
+* *Foundations and Modern Causal Inference* 36-731 & 36-732 (Fall 2022): introduces causal inference to graduates students; covers many topics including experiments, IPW estimtors, DR estimators, instrumental variables, sensitivity analysis and time-varying g-computation
 
 --- 
 
