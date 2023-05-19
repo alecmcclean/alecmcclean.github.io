@@ -18,6 +18,9 @@ I completed my undergraduate education at Swarthmore College, where I earned a B
 	M. Bonvini\*, ***A. McClean\****, Z. Branson, and E. H. Kennedy \\
 	*Handbook of Matching and Weighting in Causal Inference*, 2023, [arxiv](https://arxiv.org/abs/2110.10532) \\
 	\* Equal contribution
+
+- **Incremental Propensity Score Effects for Criminology: An Application Assessing the Relationship Between Houselessness, Behavioral Health Problems, and Recidivism** \\
+	L. Jacobs, ***A. McClean***, Z. Branson, E. H. Kennedy, and A. Fixler 
 	
 [Google Scholar](https://scholar.google.com/citations?user=OhdLY5oAAAAJ&hl=en&oi=ao)
 
