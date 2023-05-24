@@ -22,7 +22,8 @@ I completed my undergraduate education at Swarthmore College, where I earned a B
 	\* Equal contribution
 
 - **Incremental Propensity Score Effects for Criminology: An Application Assessing the Relationship Between Houselessness, Behavioral Health Problems, and Recidivism** \\
-	L. Jacobs, ***A. McClean***, Z. Branson, E. H. Kennedy, and A. Fixler 
+	L. Jacobs, ***A. McClean***, Z. Branson, E. H. Kennedy, and A. Fixler \\
+	[arxiv](https://arxiv.org/abs/2305.14040)
 	
 [Google Scholar](https://scholar.google.com/citations?user=OhdLY5oAAAAJ&hl=en&oi=ao)
 
