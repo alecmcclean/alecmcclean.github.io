@@ -29,6 +29,10 @@ I completed my undergraduate education at Swarthmore College, where I earned a B
 
 --- 
 
+## News
+
+My [poster](files/ACIC2023.pdf) on double cross-fit doubly robust estimators won the [Ten Have award](https://sci-info.org/tom-ten-have-award/#:~:text=The%20Tom%20Ten%20Have%20Award,skillful%20research%20on%20causal%20inference) at ACIC 2023.  The paper will (hopefully) be on Arxiv very soon!
+
 ## Connect 
 
 * Email: [alec@stat.cmu.edu](mailto:alec@stat.cmu.edu)
