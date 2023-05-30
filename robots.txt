@@ -1,5 +1,0 @@
-User-agent: *
-Disallow: /Code.zip
-Disallow: /iws_cv.pdf
-Disallow: /audit_demo.mov
-Disallow: /audit_demo_quick.gif
