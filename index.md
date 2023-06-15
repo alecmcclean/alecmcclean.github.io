@@ -4,7 +4,12 @@ layout: default
 
 <img class="profile-picture" src="files/am_pp.png">
 
-I am currently a 4th-year PhD student in [Statistics at Carnegie Mellon University](http://stat.cmu.edu/), where I am advised by [Zach Branson](https://sites.google.com/site/zjbranson/?pli=1) and [Edward Kennedy](https://www.ehkennedy.com/). Additionally, I have the pleasure of working with [Siva Balakrishnan](https://www.stat.cmu.edu/~siva/) and [Larry Wasserman](https://www.stat.cmu.edu/~larry/). My primary research interests are at the intersection of statistics, machine learning, and causal inference. Some topics I have worked on include stochastic and dynamic interventions for observational causal inference, nonparametric doubly robust minimax estimation, and heterogeneous effect estimation.
+I am currently a 4th-year PhD student in [Statistics at Carnegie Mellon University](http://stat.cmu.edu/), where I am advised by [Zach Branson](https://sites.google.com/site/zjbranson/?pli=1) and [Edward Kennedy](https://www.ehkennedy.com/). Additionally, I have the pleasure of working with [Siva Balakrishnan](https://www.stat.cmu.edu/~siva/) and [Larry Wasserman](https://www.stat.cmu.edu/~larry/). My primary research interests are at the intersection of statistics, machine learning, and causal inference. Some topics I have worked on include 
+
+* Stochastic and dynamic interventions for observational causal inference
+* Nonparametric doubly robust minimax estimation
+* Heterogeneous effect estimation
+* Sensitivity analyses with stochastic and dynamic interventions
 
 During my PhD, I have gained experience as a teaching assistant for several courses related to causal inference and other areas of statistics. I also instructed CMU's Sophomore-level *Introduction to Statistical Inference* course.
 
@@ -32,6 +37,8 @@ I completed my undergraduate education at Swarthmore College, where I earned a B
 ## News
 
 My [poster](files/ACIC2023.pdf) on double cross-fit doubly robust estimators won the [Ten Have award](https://sci-info.org/tom-ten-have-award/#:~:text=The%20Tom%20Ten%20Have%20Award,skillful%20research%20on%20causal%20inference) at ACIC 2023.  I plan to upload the paper to Arxiv very soon!
+
+--- 
 
 ## Connect 
 
