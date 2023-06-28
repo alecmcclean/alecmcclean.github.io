@@ -4,7 +4,7 @@ layout: default
 
 <img class="profile-picture" src="files/am_pp.png">
 
-I am currently a 4th-year PhD student in [Statistics at Carnegie Mellon University](http://stat.cmu.edu/), where I am advised by [Zach Branson](https://sites.google.com/site/zjbranson/?pli=1) and [Edward Kennedy](https://www.ehkennedy.com/). Additionally, I have the pleasure of working with [Siva Balakrishnan](https://www.stat.cmu.edu/~siva/) and [Larry Wasserman](https://www.stat.cmu.edu/~larry/). My primary research interests are at the intersection of statistics, machine learning, and causal inference. Some topics I have worked on include 
+I am a 5th-year PhD student in [Statistics at Carnegie Mellon University](http://stat.cmu.edu/), where I am advised by [Zach Branson](https://sites.google.com/site/zjbranson/?pli=1) and [Edward Kennedy](https://www.ehkennedy.com/). Additionally, I have the pleasure of working with [Siva Balakrishnan](https://www.stat.cmu.edu/~siva/) and [Larry Wasserman](https://www.stat.cmu.edu/~larry/). My primary research interests are at the intersection of statistics, machine learning, and causal inference. Some topics I have worked on include 
 
 * Stochastic and dynamic interventions for observational causal inference
 * Nonparametric doubly robust minimax estimation
@@ -15,7 +15,12 @@ During my PhD, I have gained experience as a teaching assistant for several cour
 
 I completed my undergraduate education at Swarthmore College, where I earned a Bachelor's degree in Mathematics and Economics in 2016.  Before starting my PhD, I worked for three years as a Research Analyst and later as a Senior Research Analyst at the Brattle Group. There, I helped analyze data and build statistical models for legal, regulatory, and policy issues. 
 
+---
+## Connect 
 
+* Email: [alec@stat.cmu.edu](mailto:alec@stat.cmu.edu)
+* Github: [alecmcclean](https://github.com/alecmcclean)
+---
 ## Papers
 - **Nonparametric Estimation of Conditional Incremental Effects** \\
 	***A. McClean***, Z. Branson, and E. H. Kennedy \\
@@ -33,30 +38,23 @@ I completed my undergraduate education at Swarthmore College, where I earned a B
 [Google Scholar](https://scholar.google.com/citations?user=OhdLY5oAAAAJ&hl=en&oi=ao)
 
 --- 
-
 ## News
 
 My [poster](files/ACIC2023.pdf) on double cross-fit doubly robust estimators won the [Ten Have award](https://sci-info.org/tom-ten-have-award/#:~:text=The%20Tom%20Ten%20Have%20Award,skillful%20research%20on%20causal%20inference) at ACIC 2023.  I plan to upload the paper to Arxiv very soon!
 
 --- 
-
-## Connect 
-
-* Email: [alec@stat.cmu.edu](mailto:alec@stat.cmu.edu)
-* Github: [alecmcclean](https://github.com/alecmcclean)
-
----
-
 ## Teaching
 ### As Course Instructor
-* *Introduction to Statistical Inference* 36-226 (Summer 2022): a sophomore-level class; introduces students to statistical inference, covering point estimation, confidence intervals, and hypothesis testing.
+* *Introduction to Statistical Inference* (Summer 2022)
 
-### As Teaching Assistant
-* *Modern Regression* 36-401 (Fall 2019): a junior / senior level methods class; introduces students to simple and multiple linear regression.
-* *Advanced Methods for Data Analysis* 36-402 (Spring 2021 - served as Head TA): the follow-up to 36-401; introduces students to non-parametric methods, including generalized additive models, smoothing, and the bootstrap.
-* *Statistical Reasoning with R* 90-711 (Fall 2020 and 2021 - served as Head TA): a first year master's level class; introduces basic statistical theory and methods and causal inference to public policy students
-* *Introduction to Causal Inference 36-318* (Spring 2022 and 2023): introduces causal inference to undergraduate students; covers many topics including experiments, matching, IPW estimators, outcome modeling, doubly robust estimators, and sensitivity analysis.
-* *Foundations and Modern Causal Inference* 36-731 & 36-732 (Fall 2022): introduces causal inference to graduates students; covers many topics including experiments, IPW estimators, DR estimators, instrumental variables, sensitivity analysis and time-varying g-computation.
+### As Head Teaching Assistant
+
+* *Introduction to Causal Inference 36-318* (Spring 2022 and 2023)
+* *Foundations and Modern Causal Inference* (Fall 2022)
+* *Statistical Reasoning with R* 90-711 (Fall 2020 and 2021 - served as Head TA)
+* *Advanced Methods for Data Analysis* (Spring 2021 - served as Head TA)
+* *Modern Regression* (Fall 2019)
+
 
 --- 
 
