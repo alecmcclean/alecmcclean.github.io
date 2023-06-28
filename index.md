@@ -20,6 +20,7 @@ I completed my undergraduate education at Swarthmore College, where I earned a B
 
 * Email: [alec@stat.cmu.edu](mailto:alec@stat.cmu.edu)
 * Github: [alecmcclean](https://github.com/alecmcclean)
+
 ---
 ## Papers
 - **Nonparametric Estimation of Conditional Incremental Effects** \\
@@ -54,7 +55,6 @@ My [poster](files/ACIC2023.pdf) on double cross-fit doubly robust estimators won
 * *Statistical Reasoning with R* 90-711 (Fall 2020 and 2021 - served as Head TA)
 * *Advanced Methods for Data Analysis* (Spring 2021 - served as Head TA)
 * *Modern Regression* (Fall 2019)
-
 
 --- 
 
