@@ -48,11 +48,13 @@ My [poster](files/ACIC2023.pdf) on double cross-fit doubly robust estimators won
 ### As Course Instructor
 * *Introduction to Statistical Inference* (Summer 2022)
 
-### As Head Teaching Assistant
+### As Teaching Assistant
 
+* *Optum Summer Undergraduate Research Experience* (Summer 2023)
 * *Introduction to Causal Inference 36-318* (Spring 2022 and 2023)
 * *Foundations and Modern Causal Inference* (Fall 2022)
 * *Statistical Reasoning with R* 90-711 (Fall 2020 and 2021 - served as Head TA)
+* *Methods for Statistics and Data Science* (Summer 2021)
 * *Advanced Methods for Data Analysis* (Spring 2021 - served as Head TA)
 * *Modern Regression* (Fall 2019)
 
