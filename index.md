@@ -36,7 +36,7 @@ I completed my undergraduate education at Swarthmore College, where I earned a B
 	L. Jacobs, ***A. McClean***, Z. Branson, E. H. Kennedy, and A. Fixler \\
 	[arxiv](https://arxiv.org/abs/2305.14040)
 	
-[Google Scholar](https://scholar.google.com/citations?user=OhdLY5oAAAAJ&hl=en&oi=ao)
+[Google Scholar](https://scholar.google.com/citations?user=OhdLY5oAAAAJ&hl=en&oi=ao) and [CV](files/Alec_McClean_CV.pdf) (current as of August 2023)
 
 --- 
 ## News
