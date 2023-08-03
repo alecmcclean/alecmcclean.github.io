@@ -4,7 +4,7 @@ layout: default
 
 <img class="profile-picture" src="files/am_pp.png">
 
-I am a 5th-year PhD student in [Statistics at Carnegie Mellon University](http://stat.cmu.edu/), where I am advised by [Zach Branson](https://sites.google.com/site/zjbranson/?pli=1) and [Edward Kennedy](https://www.ehkennedy.com/). Additionally, I have the pleasure of working with [Siva Balakrishnan](https://www.stat.cmu.edu/~siva/) and [Larry Wasserman](https://www.stat.cmu.edu/~larry/). My primary research interests are at the intersection of statistics, machine learning, and causal inference. Some topics I have worked on include 
+I am a 5th-year PhD student in [Statistics at Carnegie Mellon University](http://stat.cmu.edu/), where I am advised by [Zach Branson](https://sites.google.com/site/zjbranson/?pli=1) and [Edward Kennedy](https://www.ehkennedy.com/). Additionally, I have had the pleasure of working with [Siva Balakrishnan](https://www.stat.cmu.edu/~siva/) and [Larry Wasserman](https://www.stat.cmu.edu/~larry/). My primary research interests are at the intersection of statistics, machine learning, and causal inference. Some topics I have worked on include 
 
 * Stochastic and dynamic interventions for observational causal inference
 * Sensitivity analyses for observational causal inference
