@@ -50,6 +50,7 @@ My [poster](files/ACIC2023.pdf) on double cross-fit doubly robust estimators won
 
 ### As Teaching Assistant
 
+* *Intermediate Statistics 36-705* (Fall 2023)
 * *Optum Summer Undergraduate Research Experience* (Summer 2023)
 * *Introduction to Causal Inference 36-318* (Spring 2022 and 2023)
 * *Foundations and Modern Causal Inference* (Fall 2022)
