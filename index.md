@@ -36,9 +36,14 @@ I completed my undergraduate education at Swarthmore College, where I earned a B
 	L. Jacobs, ***A. McClean***, Z. Branson, E. H. Kennedy, and A. Fixler \\
 	[arxiv](https://arxiv.org/abs/2305.14040)
 	
-[Google Scholar](https://scholar.google.com/citations?user=OhdLY5oAAAAJ&hl=en&oi=ao) and [CV](files/Alec_McClean_CV.pdf) (current as of September 2023)
+[Google Scholar](https://scholar.google.com/citations?user=OhdLY5oAAAAJ&hl=en&oi=ao) and [CV](files/Alec_McClean_CV.pdf) (current as of January 2024)
+
 
 --- 
+## Software
+Contributor to `npcausal` package at (https://github.com/ehkennedy/npcausal)
+
+---
 ## News
 
 My [poster](files/ACIC2023.pdf) on double cross-fit doubly robust estimators won the [Ten Have award](https://sci-info.org/tom-ten-have-award/#:~:text=The%20Tom%20Ten%20Have%20Award,skillful%20research%20on%20causal%20inference) at ACIC 2023.  I plan to upload the paper to Arxiv very soon!
@@ -46,22 +51,24 @@ My [poster](files/ACIC2023.pdf) on double cross-fit doubly robust estimators won
 --- 
 ## Teaching
 ### As Course Instructor
-* *Introduction to Statistical Inference* (Summer 2022)
+* *Introduction to Statistical Inference* (Summer 2022 and Spring 2024)
 
 ### As Teaching Assistant
 
-* *Intermediate Statistics 36-705* (Fall 2023)
+* *Introduction to Statistical Inference* (Spring 2024 - Head TA)
+* *Intermediate Statistics 36-705* (Fall 2023 - Head TA)
 * *Optum Summer Undergraduate Research Experience* (Summer 2023)
 * *Introduction to Causal Inference 36-318* (Spring 2022 and 2023)
 * *Foundations and Modern Causal Inference* (Fall 2022)
-* *Statistical Reasoning with R* 90-711 (Fall 2020 and 2021 - served as Head TA)
+* *Statistical Reasoning with R* 90-711 (Fall 2020 and 2021 - Head TA)
 * *Methods for Statistics and Data Science* (Summer 2021)
-* *Advanced Methods for Data Analysis* (Spring 2021 - served as Head TA)
+* *Advanced Methods for Data Analysis* (Spring 2021 - Head TA)
 * *Modern Regression* (Fall 2019)
 
 --- 
 
 ## Service
+* Referee for *Bernoulli* and *American Journal of Epidemiology*
 * CMU Statistics Student Activites Committee representative
 * Pittsburgh ASA CMU student representative
 
