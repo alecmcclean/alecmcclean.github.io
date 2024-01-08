@@ -41,7 +41,7 @@ I completed my undergraduate education at Swarthmore College, where I earned a B
 
 --- 
 ## Software
-Contributor to `npcausal` package at (https://github.com/ehkennedy/npcausal)
+Contributor to [`npcausal`](https://github.com/ehkennedy/npcausal) package
 
 ---
 ## News
