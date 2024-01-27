@@ -48,7 +48,7 @@ Contributor to [`npcausal`](https://github.com/ehkennedy/npcausal) package
 
 Our paper, [Nonparametric estiamtion of conditional incremental effect](https://arxiv.org/abs/2212.03578), was accepted at the Journal of Causal Inference
 
-Our paper, [Incremental Propensity Score Effects for Criminology](https://arxiv.org/abs/2305.14040), was accepted at teh Journal of Quantitative Criminology
+Our paper, [Incremental Propensity Score Effects for Criminology](https://arxiv.org/abs/2305.14040), was accepted at the Journal of Quantitative Criminology
 
 My [poster](files/ACIC2023.pdf) on double cross-fit doubly robust estimators won the [Ten Have award](https://sci-info.org/tom-ten-have-award/#:~:text=The%20Tom%20Ten%20Have%20Award,skillful%20research%20on%20causal%20inference) at ACIC 2023
 
