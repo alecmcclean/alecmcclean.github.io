@@ -25,7 +25,7 @@ I completed my undergraduate education at Swarthmore College, where I earned a B
 ## Papers
 - **Nonparametric Estimation of Conditional Incremental Effects** \\
 	***A. McClean***, Z. Branson, and E. H. Kennedy \\
-	[arxiv](https://arxiv.org/abs/2212.03578)
+	*Accepted at the Journal of Causal Inference*, 2024, [arxiv](https://arxiv.org/abs/2212.03578)
 
 - **Incremental causal effects: an introduction and review** \\
 	M. Bonvini\*, ***A. McClean\****, Z. Branson, and E. H. Kennedy \\
@@ -34,7 +34,7 @@ I completed my undergraduate education at Swarthmore College, where I earned a B
 
 - **Incremental Propensity Score Effects for Criminology: An Application Assessing the Relationship Between Houselessness, Behavioral Health Problems, and Recidivism** \\
 	L. Jacobs, ***A. McClean***, Z. Branson, E. H. Kennedy, and A. Fixler \\
-	[arxiv](https://arxiv.org/abs/2305.14040)
+	*Accepted at the Journal of Quantitative Criminology*, 2023, [arxiv](https://arxiv.org/abs/2305.14040)
 	
 [Google Scholar](https://scholar.google.com/citations?user=OhdLY5oAAAAJ&hl=en&oi=ao) and [CV](files/Alec_McClean_CV.pdf) (current as of January 2024)
 
@@ -46,7 +46,11 @@ Contributor to [`npcausal`](https://github.com/ehkennedy/npcausal) package
 ---
 ## News
 
-My [poster](files/ACIC2023.pdf) on double cross-fit doubly robust estimators won the [Ten Have award](https://sci-info.org/tom-ten-have-award/#:~:text=The%20Tom%20Ten%20Have%20Award,skillful%20research%20on%20causal%20inference) at ACIC 2023.  I plan to upload the paper to Arxiv very soon!
+Our paper, [Nonparametric estiamtion of conditional incremental effect](https://arxiv.org/abs/2212.03578), was accepted at the Journal of Causal Inference
+
+Our paper, [Incremental Propensity Score Effects for Criminology](https://arxiv.org/abs/2305.14040), was accepted at teh Journal of Quantitative Criminology
+
+My [poster](files/ACIC2023.pdf) on double cross-fit doubly robust estimators won the [Ten Have award](https://sci-info.org/tom-ten-have-award/#:~:text=The%20Tom%20Ten%20Have%20Award,skillful%20research%20on%20causal%20inference) at ACIC 2023
 
 --- 
 ## Teaching
