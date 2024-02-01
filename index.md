@@ -32,7 +32,7 @@ I completed my undergraduate education at Swarthmore College, where I earned a B
 	*Handbook of Matching and Weighting in Causal Inference*, 2023, [arxiv](https://arxiv.org/abs/2110.10532) \\
 	\* Equal contribution
 
-- **Incremental Propensity Score Effects for Criminology: An Application Assessing the Relationship Between Houselessness, Behavioral Health Problems, and Recidivism** \\
+- **Incremental Propensity Score Effects for Criminology: An Application Assessing the Relationship Between Homelessness, Behavioral Health Problems, and Recidivism** \\
 	L. Jacobs, ***A. McClean***, Z. Branson, E. H. Kennedy, and A. Fixler \\
 	*Accepted at the Journal of Quantitative Criminology*, 2023, [arxiv](https://arxiv.org/abs/2305.14040)
 	
@@ -46,7 +46,7 @@ Contributor to [`npcausal`](https://github.com/ehkennedy/npcausal) package
 ---
 ## News
 
-Our paper, [Nonparametric estiamtion of conditional incremental effect](https://arxiv.org/abs/2212.03578), was accepted at the Journal of Causal Inference
+Our paper, [Nonparametric Estimation of Conditional Incremental Effects](https://arxiv.org/abs/2212.03578), was accepted at the Journal of Causal Inference
 
 Our paper, [Incremental Propensity Score Effects for Criminology](https://arxiv.org/abs/2305.14040), was accepted at the Journal of Quantitative Criminology
 
@@ -73,7 +73,7 @@ My [poster](files/ACIC2023.pdf) on double cross-fit doubly robust estimators won
 
 ## Service
 * Referee for *Bernoulli* and *American Journal of Epidemiology*
-* CMU Statistics Student Activites Committee representative
+* CMU Statistics Student Activities Committee representative
 * Pittsburgh ASA CMU student representative
 
 <br/><br/>
