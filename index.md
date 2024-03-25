@@ -23,6 +23,10 @@ I completed my undergraduate education at Swarthmore College, where I earned a B
 
 ---
 ## Papers
+- **Double Cross-fit Doubly Robust Estimators: Beyond Series Regression**
+	***A. McClean***, S. Balakrishnan, E.H. Kennedy, and L. Wasserman \\
+	*Winner of Tom Ten Have award at ACIC 2023*, [arxiv](https://arxiv.org/abs/2403.15175)
+
 - **Nonparametric Estimation of Conditional Incremental Effects** \\
 	***A. McClean***, Z. Branson, and E. H. Kennedy \\
 	*Accepted at the Journal of Causal Inference*, 2024, [arxiv](https://arxiv.org/abs/2212.03578)
