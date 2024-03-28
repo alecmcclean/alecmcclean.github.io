@@ -40,7 +40,7 @@ I completed my undergraduate education at Swarthmore College, where I earned a B
 	L. Jacobs, ***A. McClean***, Z. Branson, E. H. Kennedy, and A. Fixler \\
 	*Accepted at the Journal of Quantitative Criminology*, 2023, [arxiv](https://arxiv.org/abs/2305.14040)
 	
-[Google Scholar](https://scholar.google.com/citations?user=OhdLY5oAAAAJ&hl=en&oi=ao) and [CV](files/Alec_McClean_CV.pdf) (current as of January 2024)
+[Google Scholar](https://scholar.google.com/citations?user=OhdLY5oAAAAJ&hl=en&oi=ao) and [CV](files/Alec_McClean_CV.pdf) (current as of March 2024)
 
 
 --- 
