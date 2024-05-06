@@ -29,7 +29,7 @@ I completed my undergraduate education at Swarthmore College, where I earned a B
 
 - **Nonparametric Estimation of Conditional Incremental Effects** \\
 	***A. McClean***, Z. Branson, and E. H. Kennedy \\
-	*Accepted at the Journal of Causal Inference*, 2024, [arxiv](https://arxiv.org/abs/2212.03578)
+	*Accepted at the Journal of Causal Inference*, 2024, [journal](https://www.degruyter.com/document/doi/10.1515/jci-2023-0024/html), [arxiv](https://arxiv.org/abs/2212.03578)
 
 - **Incremental causal effects: an introduction and review** \\
 	M. Bonvini\*, ***A. McClean\****, Z. Branson, and E. H. Kennedy \\
@@ -38,7 +38,7 @@ I completed my undergraduate education at Swarthmore College, where I earned a B
 
 - **Incremental Propensity Score Effects for Criminology: An Application Assessing the Relationship Between Homelessness, Behavioral Health Problems, and Recidivism** \\
 	L. Jacobs, ***A. McClean***, Z. Branson, E. H. Kennedy, and A. Fixler \\
-	*Accepted at the Journal of Quantitative Criminology*, 2023, [arxiv](https://arxiv.org/abs/2305.14040)
+	*Accepted at the Journal of Quantitative Criminology*, 2023, [journal](https://link.springer.com/article/10.1007/s10940-024-09582-7), [arxiv](https://arxiv.org/abs/2305.14040)
 	
 [Google Scholar](https://scholar.google.com/citations?user=OhdLY5oAAAAJ&hl=en&oi=ao) and [CV](files/Alec_McClean_CV.pdf) (current as of March 2024)
 
