@@ -54,7 +54,7 @@ Contributor to [`npcausal`](https://github.com/ehkennedy/npcausal) package
 ---
 ## News
 
-(May '24) I presented our ongoing work on calibrated sensitivity models at ACIC 2024 [(slides)](files/CSM_slides_ACIC2024.pdf). A working paper is up on [arxiv](https://arxiv.org/abs/2405.08738))
+(May '24) I presented our ongoing work on calibrated sensitivity models at ACIC 2024 [(slides)](files/CSM_slides_ACIC2024.pdf). A working paper is up on [arxiv](https://arxiv.org/abs/2405.08738)
 
 (Mar '24) We have a new paper on [arxiv](https://arxiv.org/abs/2403.15175) on double cross-fit doubly robust estimators!  
 
