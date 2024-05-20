@@ -23,13 +23,17 @@ I completed my undergraduate education at Swarthmore College, where I earned a B
 
 ---
 ## Papers
+- **Calibrated sensitivity models** \\
+	***A. McClean***, Z. Branson, and E.H. Kennedy \\
+	[arxiv](https://arxiv.org/abs/2405.08738) 
+
 - **Double Cross-fit Doubly Robust Estimators: Beyond Series Regression** \\
 	***A. McClean***, S. Balakrishnan, E.H. Kennedy, and L. Wasserman \\
 	*Winner of Tom Ten Have award at ACIC 2023*, [arxiv](https://arxiv.org/abs/2403.15175)
 
 - **Nonparametric Estimation of Conditional Incremental Effects** \\
 	***A. McClean***, Z. Branson, and E. H. Kennedy \\
-	*Accepted at the Journal of Causal Inference*, 2024, [journal](https://www.degruyter.com/document/doi/10.1515/jci-2023-0024/html), [arxiv](https://arxiv.org/abs/2212.03578)
+	*Journal of Causal Inference*, 2024, [journal](https://www.degruyter.com/document/doi/10.1515/jci-2023-0024/html), [arxiv](https://arxiv.org/abs/2212.03578)
 
 - **Incremental causal effects: an introduction and review** \\
 	M. Bonvini\*, ***A. McClean\****, Z. Branson, and E. H. Kennedy \\
@@ -38,7 +42,7 @@ I completed my undergraduate education at Swarthmore College, where I earned a B
 
 - **Incremental Propensity Score Effects for Criminology: An Application Assessing the Relationship Between Homelessness, Behavioral Health Problems, and Recidivism** \\
 	L. Jacobs, ***A. McClean***, Z. Branson, E. H. Kennedy, and A. Fixler \\
-	*Accepted at the Journal of Quantitative Criminology*, 2023, [journal](https://link.springer.com/article/10.1007/s10940-024-09582-7), [arxiv](https://arxiv.org/abs/2305.14040)
+	*Journal of Quantitative Criminology*, 2023, [journal](https://link.springer.com/article/10.1007/s10940-024-09582-7), [arxiv](https://arxiv.org/abs/2305.14040)
 	
 [Google Scholar](https://scholar.google.com/citations?user=OhdLY5oAAAAJ&hl=en&oi=ao) and [CV](files/Alec_McClean_CV.pdf) (current as of March 2024)
 
@@ -50,11 +54,9 @@ Contributor to [`npcausal`](https://github.com/ehkennedy/npcausal) package
 ---
 ## News
 
-Our paper, [Nonparametric Estimation of Conditional Incremental Effects](https://arxiv.org/abs/2212.03578), was accepted at the Journal of Causal Inference
+(May '24) I presented our ongoing work on calibrated sensitivity models at ACIC 2024 [(slides)](files/CSM_slides_ACIC2024.pdf). A working paper is up on [arxiv](https://arxiv.org/abs/2405.08738))
 
-Our paper, [Incremental Propensity Score Effects for Criminology](https://arxiv.org/abs/2305.14040), was accepted at the Journal of Quantitative Criminology
-
-My [poster](files/ACIC2023.pdf) on double cross-fit doubly robust estimators won the [Ten Have award](https://sci-info.org/tom-ten-have-award/#:~:text=The%20Tom%20Ten%20Have%20Award,skillful%20research%20on%20causal%20inference) at ACIC 2023
+(Mar '24) We have a new paper on [arxiv](https://arxiv.org/abs/2403.15175) on double cross-fit doubly robust estimators!  
 
 --- 
 ## Teaching
