@@ -10,7 +10,7 @@ Before my postdoc, I did my PhD in [Statistics at Carnegie Mellon University](ht
 
 My primary research interests are at the intersection of statistics, machine learning, and causal inference. Some specific topics I have worked on include 
 
-* Stochastic and dynamic interventions for observational causal inference ([Ex. 1](https://arxiv.org/abs/2110.10532), [Ex. 2](https://arxiv.org/abs/2212.03578))
+* Stochastic and dynamic interventions for observational causal inference ([here](https://arxiv.org/abs/2110.10532) and [here](https://arxiv.org/abs/2212.03578))
 * Sensitivity analyses for observational causal inference ([here](https://arxiv.org/abs/2405.08738)) 
 * Heterogeneous effect estimation (for [incremental effects](https://arxiv.org/abs/2212.03578))
 * Nonparametric doubly robust minimax estimation ([here](https://arxiv.org/abs/2403.15175))
