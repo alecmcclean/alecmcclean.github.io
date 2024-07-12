@@ -83,7 +83,7 @@ Contributor to [`npcausal`](https://github.com/ehkennedy/npcausal) package
 --- 
 
 ## Service
-* Referee for *ACIC 2024*, the *Review of Economics and Statistics*, *Bernoulli*, and the *American Journal of Epidemiology*
+* Reviewer for *ACIC 2024*, the *Review of Economics and Statistics*, *Bernoulli*, and the *American Journal of Epidemiology*
 * CMU Statistics Student Activities Committee representative
 * Pittsburgh ASA CMU student representative
 
