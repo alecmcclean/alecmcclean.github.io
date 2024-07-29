@@ -22,7 +22,7 @@ I completed my undergraduate education at Swarthmore College, where I earned a B
 ---
 ## Connect 
 
-* Email: [mccleanalec@gmail.com](mailto:hadera01@nyu.edu)
+* Email: [hadera01@nyu.edu](mailto:hadera01@nyu.edu)
 * Github: [alecmcclean](https://github.com/alecmcclean)
 
 ---
