@@ -10,8 +10,8 @@ Before my postdoc, I did my PhD in [Statistics at Carnegie Mellon University](ht
 
 My primary research interests are at the intersection of statistics, machine learning, and causal inference. Some specific topics I have worked on include 
 
-* Stochastic and dynamic interventions for observational causal inference ([here](https://arxiv.org/abs/2110.10532) and [here](https://arxiv.org/abs/2212.03578))
-* Sensitivity analyses for observational causal inference ([here](https://arxiv.org/abs/2405.08738)) 
+* Stochastic and dynamic interventions for causal inference ([1](https://arxiv.org/abs/2410.13522), [2](https://www.arxiv.org/abs/2411.14285), [3](https://arxiv.org/abs/2110.10532) and [4](https://arxiv.org/abs/2212.03578))
+* Sensitivity analyses for observational causal inference ([1](https://arxiv.org/abs/2405.08738) and [2](https://www.arxiv.org/abs/2411.14285)) 
 * Heterogeneous effect estimation (for [incremental effects](https://arxiv.org/abs/2212.03578))
 * Nonparametric doubly robust minimax estimation ([here](https://arxiv.org/abs/2403.15175))
 
@@ -22,18 +22,28 @@ I completed my undergraduate education at Swarthmore College, where I earned a B
 ---
 ## Connect 
 
+* Bluesky: [alecmcclean.bsky.social](https://bsky.app/profile/alecmcclean.bsky.social)
 * Email: [hadera01@nyu.edu](mailto:hadera01@nyu.edu)
 * Github: [alecmcclean](https://github.com/alecmcclean)
 
 ---
 ## Papers
+- **Fair comparisons of causal parameters with many treatments and positivity violations** \\
+	***A. McClean***, Y. Li, S. Bae, M. A. McAdams-DeMarco, I. Díaz, and W. Wu \\
+	[arxiv](https://arxiv.org/abs/2410.13522), [bluesky](https://bsky.app/profile/alecmcclean.bsky.social/post/3ld7w5nsbjk2i)
+
+- **Stochastic interventions, sensitivity analysis, and optimal transport** \\
+	A. Levis, E. H. Kennedy, ***A. McClean***, S. Balakrishnan, and L. Wasserman \\
+	[arxiv](https://www.arxiv.org/abs/2411.14285) 
+
 - **Calibrated sensitivity models** \\
 	***A. McClean***, Z. Branson, and E.H. Kennedy \\
-	[arxiv](https://arxiv.org/abs/2405.08738) 
+	[arxiv](https://arxiv.org/abs/2405.08738), [bluesky](https://bsky.app/profile/alecmcclean.bsky.social/post/3leefjb6ewc2v)
 
 - **Double Cross-fit Doubly Robust Estimators: Beyond Series Regression** \\
 	***A. McClean***, S. Balakrishnan, E.H. Kennedy, and L. Wasserman \\
-	*Winner of Tom Ten Have award at ACIC 2023*, [arxiv](https://arxiv.org/abs/2403.15175)
+	*Winner of Tom Ten Have award at ACIC 2023*, Major revision at JRSSB \\
+	[arxiv](https://arxiv.org/abs/2403.15175), [bluesky](https://bsky.app/profile/alecmcclean.bsky.social/post/3leefihmly22v)
 
 - **Nonparametric Estimation of Conditional Incremental Effects** \\
 	***A. McClean***, Z. Branson, and E. H. Kennedy \\
@@ -57,6 +67,9 @@ Contributor to [`npcausal`](https://github.com/ehkennedy/npcausal) package
 
 ---
 ## News
+
+(Oct '24) We have a new paper on [arxiv](https://arxiv.org/abs/2410.13522) on fair comparisons of causal parameters; [more details on Bluesky](https://bsky.app/profile/alecmcclean.bsky.social/post/3ld7w5nsbjk2i)
+
 (Jul '24) I started as a Postdoctoral fellow at NYU working with [Iván Díaz](https://www.idiaz.xyz/) and [Wenbo Wu](https://www.wenbowu.me/)!
 
 (May '24) I presented our ongoing work on calibrated sensitivity models at ACIC 2024 [(slides)](files/CSM_slides_ACIC2024.pdf). A working paper is up on [arxiv](https://arxiv.org/abs/2405.08738)
@@ -83,7 +96,7 @@ Contributor to [`npcausal`](https://github.com/ehkennedy/npcausal) package
 --- 
 
 ## Service
-* Reviewer for *ACIC 2024*, the *American Journal of Epidemiology*, *Bernoulli*, *Biometrika*, and the *Review of Economics and Statistics*
+* Reviewer for *ACIC 2024*, the *American Journal of Epidemiology*, the *Annals of Statistics*, *Behavioral Research Methods*, *Bernoulli*, *Biometrika*, *JASA Theory \& Methods*, *Observational Studies*, the *Review of Economics and Statistics*, and *Statistics in Medicine*
 * CMU Statistics Student Activities Committee representative
 * Pittsburgh ASA CMU student representative
 
