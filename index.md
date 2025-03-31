@@ -4,8 +4,6 @@ layout: default
 
 <img class="profile-picture" src="files/am_pp.png">
 
-[ENAR slides](files/alec-mcclean-enar-presentation.pdf)
-
 I am a Postdoctoral Fellow in the [Division of Biostatistics](https://med.nyu.edu/departments-institutes/population-health/divisions-sections-centers/biostatistics/) in the NYU Grossman School of Medicine, where I am fortunate to work with [Iván Díaz](https://www.idiaz.xyz/) and [Wenbo Wu](https://www.wenbowu.me/). We are developing theory and methods at the intersection of machine learning and causal inference, and applying them to problems in healthcare provider profiling and personalized medicine.
 
 Before my postdoc, I did my PhD in [Statistics at Carnegie Mellon University](http://stat.cmu.edu/), where I was advised by [Zach Branson](https://sites.google.com/site/zjbranson/?pli=1) and [Edward Kennedy](https://www.ehkennedy.com/). Additionally, I had the pleasure of working with [Siva Balakrishnan](https://www.stat.cmu.edu/~siva/) and [Larry Wasserman](https://www.stat.cmu.edu/~larry/). 
@@ -69,6 +67,9 @@ Contributor to [`npcausal`](https://github.com/ehkennedy/npcausal) package
 
 ---
 ## News
+
+(Mar '25) I recently presented our fair comparisons work at ENAR. Slides [here](files/alec-mcclean-enar-presentation.pdf)
+
 
 (Oct '24) We have a new paper on [arxiv](https://arxiv.org/abs/2410.13522) on fair comparisons of causal parameters; [more details on Bluesky](https://bsky.app/profile/alecmcclean.bsky.social/post/3ld7w5nsbjk2i)
 
