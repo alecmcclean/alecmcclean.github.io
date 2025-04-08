@@ -68,6 +68,8 @@ Contributor to [`npcausal`](https://github.com/ehkennedy/npcausal) package
 ---
 ## News
 
+(Apr '25) This week, I am presenting our new (and ongoing) work on trimming with longitudinal data at EuroCIM! [Preliminary draft](files/LSTTEs-short.pdf)
+
 (Mar '25) I recently presented our fair comparisons work at ENAR. Slides [here](files/alec-mcclean-enar-presentation.pdf)
 
 
