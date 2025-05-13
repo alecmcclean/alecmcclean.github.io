@@ -68,9 +68,9 @@ Contributor to [`npcausal`](https://github.com/ehkennedy/npcausal) package
 ---
 ## News
 
-(May '25)  presenting our new (and ongoing) work on weighting with longitudinal data at ACIC! [preliminary draft](files/long-weight-short.pdf), [slides](files/long-weight-short.pdf)
+(May '25)  presenting our new (and ongoing) work on weighting with longitudinal data at ACIC! [preliminary draft](files/long-weight-short.pdf)
 
-(Apr '25) I presented our new (and ongoing) work on weighting with longitudinal data at EurOCIM! [preliminary draft](files/long-weight-short.pdf) [slides](files/long-weight-short.pdf)
+(Apr '25) I presented our new (and ongoing) work on trimming with longitudinal data at EuroCIM! [preliminary draft](files/long-weight-short.pdf) [slides](files/AM-eurocim-2025.pdf)
 
 (Mar '25) I recently presented our fair comparisons work at ENAR. [slides](files/alec-mcclean-enar-presentation.pdf)
 
