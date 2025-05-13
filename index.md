@@ -4,8 +4,6 @@ layout: default
 
 <img class="profile-picture" src="files/am_pp.png">
 
-[euroCIM slides](files/AM-eurocim-2025.pdf)
-
 I am a Postdoctoral Fellow in the [Division of Biostatistics](https://med.nyu.edu/departments-institutes/population-health/divisions-sections-centers/biostatistics/) in the NYU Grossman School of Medicine, where I am fortunate to work with [Iván Díaz](https://www.idiaz.xyz/) and [Wenbo Wu](https://www.wenbowu.me/). We are developing theory and methods at the intersection of machine learning and causal inference, and applying them to problems in healthcare provider profiling and personalized medicine.
 
 Before my postdoc, I did my PhD in [Statistics at Carnegie Mellon University](http://stat.cmu.edu/), where I was advised by [Zach Branson](https://sites.google.com/site/zjbranson/?pli=1) and [Edward Kennedy](https://www.ehkennedy.com/). Additionally, I had the pleasure of working with [Siva Balakrishnan](https://www.stat.cmu.edu/~siva/) and [Larry Wasserman](https://www.stat.cmu.edu/~larry/). 
@@ -32,7 +30,7 @@ I completed my undergraduate education at Swarthmore College, where I earned a B
 ## Papers
 - **Fair comparisons of causal parameters with many treatments and positivity violations** \\
 	***A. McClean***, Y. Li, S. Bae, M. A. McAdams-DeMarco, I. Díaz, and W. Wu \\
-	[arxiv](https://arxiv.org/abs/2410.13522), [bluesky](https://bsky.app/profile/alecmcclean.bsky.social/post/3ld7w5nsbjk2i)
+	[arxiv](https://arxiv.org/abs/2410.13522), [bluesky](https://bsky.app/profile/alecmcclean.bsky.social/post/3ld7w5nsbjk2i), [slides](files/alec-mcclean-enar-presentation.pdf)
 
 - **Stochastic interventions, sensitivity analysis, and optimal transport** \\
 	A. Levis, E. H. Kennedy, ***A. McClean***, S. Balakrishnan, and L. Wasserman \\
@@ -40,7 +38,7 @@ I completed my undergraduate education at Swarthmore College, where I earned a B
 
 - **Calibrated sensitivity models** \\
 	***A. McClean***, Z. Branson, and E.H. Kennedy \\
-	[arxiv](https://arxiv.org/abs/2405.08738), [bluesky](https://bsky.app/profile/alecmcclean.bsky.social/post/3leefjb6ewc2v)
+	[arxiv](https://arxiv.org/abs/2405.08738), [bluesky](https://bsky.app/profile/alecmcclean.bsky.social/post/3leefjb6ewc2v), [slides](files/CSM_slides_ACIC2024)
 
 - **Double Cross-fit Doubly Robust Estimators: Beyond Series Regression** \\
 	***A. McClean***, S. Balakrishnan, E.H. Kennedy, and L. Wasserman \\
@@ -70,10 +68,11 @@ Contributor to [`npcausal`](https://github.com/ehkennedy/npcausal) package
 ---
 ## News
 
-(Apr '25) This week, I am presenting our new (and ongoing) work on trimming with longitudinal data at EuroCIM! [Preliminary draft](files/LSTTEs-short.pdf)
+(May '25)  presenting our new (and ongoing) work on weighting with longitudinal data at ACIC! [preliminary draft](files/long-weight-short.pdf), [slides](files/long-weight-short.pdf)
 
-(Mar '25) I recently presented our fair comparisons work at ENAR. Slides [here](files/alec-mcclean-enar-presentation.pdf)
+(Apr '25) I presented our new (and ongoing) work on weighting with longitudinal data at EurOCIM! [preliminary draft](files/long-weight-short.pdf) [slides](files/long-weight-short.pdf)
 
+(Mar '25) I recently presented our fair comparisons work at ENAR. [slides](files/alec-mcclean-enar-presentation.pdf)
 
 (Oct '24) We have a new paper on [arxiv](https://arxiv.org/abs/2410.13522) on fair comparisons of causal parameters; [more details on Bluesky](https://bsky.app/profile/alecmcclean.bsky.social/post/3ld7w5nsbjk2i)
 
