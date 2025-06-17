@@ -28,8 +28,13 @@ I completed my undergraduate education at Swarthmore College, where I earned a B
 
 ---
 ## Papers
+- **Longitudinal weighted and trimmed treatment effects with flip interventions** \\
+	***A. McClean***, A. Levis, N. Williams, and I. Díaz \\
+	[arxiv](https://arxiv.org/abs/2506.09188), [bluesky](https://bsky.app/profile/alecmcclean.bsky.social/post/3lrggenboy22o), [slides](files/acic-2025.pdf)
+
 - **Fair comparisons of causal parameters with many treatments and positivity violations** \\
 	***A. McClean***, Y. Li, S. Bae, M. A. McAdams-DeMarco, I. Díaz, and W. Wu \\
+	R and R at Biometrika \\
 	[arxiv](https://arxiv.org/abs/2410.13522), [bluesky](https://bsky.app/profile/alecmcclean.bsky.social/post/3ld7w5nsbjk2i), [slides](files/alec-mcclean-enar-presentation.pdf)
 
 - **Stochastic interventions, sensitivity analysis, and optimal transport** \\
@@ -38,6 +43,7 @@ I completed my undergraduate education at Swarthmore College, where I earned a B
 
 - **Calibrated sensitivity models** \\
 	***A. McClean***, Z. Branson, and E.H. Kennedy \\
+	Major revision at Biometrika \\
 	[arxiv](https://arxiv.org/abs/2405.08738), [bluesky](https://bsky.app/profile/alecmcclean.bsky.social/post/3leefjb6ewc2v), [slides](files/CSM_slides_ACIC2024)
 
 - **Double Cross-fit Doubly Robust Estimators: Beyond Series Regression** \\
@@ -58,7 +64,7 @@ I completed my undergraduate education at Swarthmore College, where I earned a B
 	L. Jacobs, ***A. McClean***, Z. Branson, E. H. Kennedy, and A. Fixler \\
 	*Journal of Quantitative Criminology*, 2023, [journal](https://link.springer.com/article/10.1007/s10940-024-09582-7), [arxiv](https://arxiv.org/abs/2305.14040)
 	
-[Google Scholar](https://scholar.google.com/citations?user=lsB4VsUAAAAJ&hl=en) and [CV](files/Alec_McClean_CV.pdf) (current as of December 2024)
+[Google Scholar](https://scholar.google.com/citations?user=lsB4VsUAAAAJ&hl=en) and [CV](files/Alec_McClean_CV.pdf) (current as of June 2025)
 
 
 --- 
@@ -67,6 +73,8 @@ Contributor to [`npcausal`](https://github.com/ehkennedy/npcausal) package
 
 ---
 ## News
+
+(June '25) Our new paper on flip interventions for weighting and trimmed with longitudinal data is on [arxiv](https://arxiv.org/abs/2506.09188)
 
 (May '25)  presenting our new (and ongoing) work on weighting with longitudinal data at ACIC! [slides](files/acic-2025.pdf) [preliminary draft](files/long-weight-short.pdf)
 
