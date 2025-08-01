@@ -4,32 +4,26 @@ layout: default
 
 <img class="profile-picture" src="files/am_pp.png">
 
-I am a Postdoctoral Fellow in the [Division of Biostatistics](https://med.nyu.edu/departments-institutes/population-health/divisions-sections-centers/biostatistics/) in the NYU Grossman School of Medicine, where I am fortunate to work with [Iván Díaz](https://www.idiaz.xyz/) and [Wenbo Wu](https://www.wenbowu.me/). We are developing theory and methods at the intersection of machine learning and causal inference, and applying them to problems in healthcare provider profiling and personalized medicine.
+I am a Postdoctoral Fellow in the [Division of Biostatistics](https://med.nyu.edu/departments-institutes/population-health/divisions-sections-centers/biostatistics/) in the NYU Grossman School of Medicine, where I am fortunate to work with [Iván Díaz](https://www.idiaz.xyz/) and [Wenbo Wu](https://www.wenbowu.me/). We are developing theory and methods at the intersection of machine learning and causal inference, and applying them to problems in healthcare. Time permitting, I also help the [Tech & Society lab](https://www.anxiousgeneration.com/research) team assess the evidence of the causal effects of social media use on mental health. Before my postdoc, I did my PhD in [Statistics at Carnegie Mellon University](http://stat.cmu.edu/), where I was advised by [Zach Branson](https://sites.google.com/site/zjbranson/?pli=1) and [Edward Kennedy](https://www.ehkennedy.com/). Additionally, I had the pleasure of working with [Siva Balakrishnan](https://www.stat.cmu.edu/~siva/) and [Larry Wasserman](https://www.stat.cmu.edu/~larry/). 
 
-Before my postdoc, I did my PhD in [Statistics at Carnegie Mellon University](http://stat.cmu.edu/), where I was advised by [Zach Branson](https://sites.google.com/site/zjbranson/?pli=1) and [Edward Kennedy](https://www.ehkennedy.com/). Additionally, I had the pleasure of working with [Siva Balakrishnan](https://www.stat.cmu.edu/~siva/) and [Larry Wasserman](https://www.stat.cmu.edu/~larry/). 
-
-My primary research interests are at the intersection of statistics, machine learning, and causal inference. Some specific topics I have worked on include 
-
-* Stochastic and dynamic interventions for causal inference ([1](https://arxiv.org/abs/2410.13522), [2](https://www.arxiv.org/abs/2411.14285), [3](https://arxiv.org/abs/2110.10532) and [4](https://arxiv.org/abs/2212.03578))
-* Sensitivity analyses for observational causal inference ([1](https://arxiv.org/abs/2405.08738) and [2](https://www.arxiv.org/abs/2411.14285)) 
-* Heterogeneous effect estimation (for [incremental effects](https://arxiv.org/abs/2212.03578))
-* Nonparametric doubly robust minimax estimation ([here](https://arxiv.org/abs/2403.15175))
-
-During my PhD, I also gained invaluable teaching experience. Twice, I instructed CMU's Sophomore-level *Introduction to Statistical Inference* course. Additionally, I had the opportunity to serve as a teaching assistant for several courses related to causal inference and other areas of statistics. 
-
-I completed my undergraduate education at Swarthmore College, where I earned a Bachelor's degree in Mathematics and Economics in 2016.  Before starting my PhD, I worked for three years as a Research Analyst and later as a Senior Research Analyst at the Brattle Group. There, I helped analyze data and build statistical models for legal, regulatory, and policy issues.  In particular, I learned a huge amount from [Charlie Gibbons](https://gibbons.bio/), who inspired me to pursue a career in econometrics/statistics/ML.
-
-Time permitting, I also help the [Tech & Society lab](https://www.anxiousgeneration.com/research) team assess the evidence of the causal effects of social media use on mental health.
+My primary research interests lie at the intersection of statistics, machine learning, and causal inference. In particular, I develop nonparametric statistical methods that leverage machine learning to estimate causal effects from complex observational data. Much of my work focuses on ensuring these methods remain robust to violations of key causal assumptions, such as positivity and unconfoundedness. I have received the [Ten Have](https://sci-info.org/tom-ten-have-award/) award for exceptional research in causal inference.
 
 ---
 ## Connect 
 
+* Linkedin: [alec-mcclean](https://www.linkedin.com/in/alec-mcclean/)
 * Bluesky: [alecmcclean.bsky.social](https://bsky.app/profile/alecmcclean.bsky.social)
 * Email: [hadera01@nyu.edu](mailto:hadera01@nyu.edu)
 * Github: [alecmcclean](https://github.com/alecmcclean)
 
 ---
 ## Papers
+[Google Scholar](https://scholar.google.com/citations?user=lsB4VsUAAAAJ&hl=en) and [CV](files/Alec_McClean_CV.pdf) (current as of July 2025)
+
+- **Propensity score weighting across counterfactual worlds: longitudinal effects under positivity violations** \\
+	***A. McClean and I. Díaz \\
+	[arxiv](https://arxiv.org/pdf/2507.10774), [bluesky](https://bsky.app/profile/alecmcclean.bsky.social/post/3lu4i4gnwrc2x)
+
 - **Longitudinal weighted and trimmed treatment effects with flip interventions** \\
 	***A. McClean***, A. Levis, N. Williams, and I. Díaz \\
 	[arxiv](https://arxiv.org/abs/2506.09188), [bluesky](https://bsky.app/profile/alecmcclean.bsky.social/post/3lrggenboy22o), [slides](files/acic-2025.pdf)
@@ -66,7 +60,6 @@ Time permitting, I also help the [Tech & Society lab](https://www.anxiousgenerat
 	L. Jacobs, ***A. McClean***, Z. Branson, E. H. Kennedy, and A. Fixler \\
 	*Journal of Quantitative Criminology*, 2023, [journal](https://link.springer.com/article/10.1007/s10940-024-09582-7), [arxiv](https://arxiv.org/abs/2305.14040)
 	
-[Google Scholar](https://scholar.google.com/citations?user=lsB4VsUAAAAJ&hl=en) and [CV](files/Alec_McClean_CV.pdf) (current as of June 2025)
 
 
 --- 
@@ -75,6 +68,7 @@ Contributor to [`npcausal`](https://github.com/ehkennedy/npcausal) package
 
 ---
 ## News
+(Jul '25) Our new paper on counterfactual longitudinal propensity score weighting is on [arxiv](https://arxiv.org/pdf/2507.10774)
 
 (June '25) Our new paper on flip interventions for weighting and trimmed with longitudinal data is on [arxiv](https://arxiv.org/abs/2506.09188)
 
