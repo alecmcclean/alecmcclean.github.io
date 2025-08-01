@@ -21,7 +21,7 @@ My primary research interests lie at the intersection of statistics, machine lea
 [Google Scholar](https://scholar.google.com/citations?user=lsB4VsUAAAAJ&hl=en) and [CV](files/Alec_McClean_CV.pdf) (current as of July 2025)
 
 - **Propensity score weighting across counterfactual worlds: longitudinal effects under positivity violations** \\
-	***A. McClean and I. Díaz \\
+	***A. McClean*** and I. Díaz \\
 	[arxiv](https://arxiv.org/pdf/2507.10774), [bluesky](https://bsky.app/profile/alecmcclean.bsky.social/post/3lu4i4gnwrc2x)
 
 - **Longitudinal weighted and trimmed treatment effects with flip interventions** \\
