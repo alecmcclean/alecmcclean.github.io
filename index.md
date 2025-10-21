@@ -26,7 +26,12 @@ This past year, I've focused on longitudinal data. I've developed novel interven
 
 ---
 ## Selected papers
-[Google Scholar](https://scholar.google.com/citations?user=lsB4VsUAAAAJ&hl=en) and [CV](files/Alec_McClean_CV.pdf) (current as of July 2025)
+[Google Scholar](https://scholar.google.com/citations?user=lsB4VsUAAAAJ&hl=en) and [CV](files/Alec_McClean_CV.pdf) (current as of October 2025)
+
+- **Non-overlap average treatment effect bounds ** \\
+	H. Susmann\*, ***A.McClean\* ***, and I. Díaz \\
+	[arxiv](https://arxiv.org/abs/2509.20206), [bluesky](https://bsky.app/profile/herbps10.bsky.social/post/3lzohq63sxs2e) \\
+	\* Equal contribution
 
 - **Propensity score weighting across counterfactual worlds: longitudinal effects under positivity violations** \\
 	***A. McClean*** and I. Díaz \\
@@ -47,7 +52,7 @@ This past year, I've focused on longitudinal data. I've developed novel interven
 
 - **Calibrated sensitivity models** \\
 	***A. McClean***, Z. Branson, and E.H. Kennedy \\
-	Major revision at Biometrika \\
+	Minor revision at Biometrika \\
 	[arxiv](https://arxiv.org/abs/2405.08738), [bluesky](https://bsky.app/profile/alecmcclean.bsky.social/post/3leefjb6ewc2v), [slides](files/CSM_slides_ACIC2024)
 
 - **Double Cross-fit Doubly Robust Estimators: Beyond Series Regression** \\
@@ -76,19 +81,13 @@ Contributor to [`npcausal`](https://github.com/ehkennedy/npcausal) package
 
 ---
 ## News
+(Sept '25) Our new paper on non-overlap average treatment effect bounds is on [arxiv](https://arxiv.org/abs/2509.20206)
+
 (Jul '25) Our new paper on counterfactual longitudinal propensity score weighting is on [arxiv](https://arxiv.org/pdf/2507.10774)
 
 (June '25) Our new paper on flip interventions for weighting and trimmed with longitudinal data is on [arxiv](https://arxiv.org/abs/2506.09188)
 
-(May '25)  presenting our new (and ongoing) work on weighting with longitudinal data at ACIC! [slides](files/acic-2025.pdf) [preliminary draft](files/long-weight-short.pdf)
-
-(Apr '25) I presented our new (and ongoing) work on trimming with longitudinal data at EuroCIM! [preliminary draft](files/long-weight-short.pdf) [slides](files/AM-eurocim-2025.pdf)
-
-(Mar '25) I recently presented our fair comparisons work at ENAR. [slides](files/alec-mcclean-enar-presentation.pdf)
-
 (Oct '24) We have a new paper on [arxiv](https://arxiv.org/abs/2410.13522) on fair comparisons of causal parameters; [more details on Bluesky](https://bsky.app/profile/alecmcclean.bsky.social/post/3ld7w5nsbjk2i)
-
-(Jul '24) I started as a Postdoctoral fellow at NYU working with [Iván Díaz](https://www.idiaz.xyz/) and [Wenbo Wu](https://www.wenbowu.me/)!
 
 (May '24) I presented our ongoing work on calibrated sensitivity models at ACIC 2024 [(slides)](files/CSM_slides_ACIC2024.pdf). A working paper is up on [arxiv](https://arxiv.org/abs/2405.08738)
 
