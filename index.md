@@ -28,8 +28,8 @@ This past year, I've focused on longitudinal data. I've developed novel interven
 ## Selected papers
 [Google Scholar](https://scholar.google.com/citations?user=lsB4VsUAAAAJ&hl=en) and [CV](files/Alec_McClean_CV.pdf) (current as of October 2025)
 
-- **Non-overlap average treatment effect bounds ** \\
-	H. Susmann\*, ***A.McClean\* ***, and I. Díaz \\
+- **Non-overlap average treatment effect bounds** \\
+	H. Susmann\*, ***A.McClean\****, and I. Díaz \\
 	[arxiv](https://arxiv.org/abs/2509.20206), [bluesky](https://bsky.app/profile/herbps10.bsky.social/post/3lzohq63sxs2e) \\
 	\* Equal contribution
 
