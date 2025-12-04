@@ -2,8 +2,6 @@
 layout: default
 ---
 
-<img class="profile-picture" src="files/am_pp.png">
-
 I am a Postdoctoral Fellow in the [Division of Biostatistics](https://med.nyu.edu/departments-institutes/population-health/divisions-sections-centers/biostatistics/) in the NYU Grossman School of Medicine, where I am fortunate to work with [Iván Díaz](https://www.idiaz.xyz/) and [Wenbo Wu](https://www.wenbowu.me/). We are developing theory and methods at the intersection of statistics, machine learning, and causal inference, and applying them to problems in healthcare. I also help the [Tech & Society lab](https://www.anxiousgeneration.com/research) team assess the evidence of the causal effects of social media use on mental health. Before my postdoc, I did my PhD in [Statistics at Carnegie Mellon University](http://stat.cmu.edu/), where I was advised by [Zach Branson](https://sites.google.com/site/zjbranson/?pli=1) and [Edward Kennedy](https://www.ehkennedy.com/). Additionally, I had the pleasure of working with [Siva Balakrishnan](https://www.stat.cmu.edu/~siva/) and [Larry Wasserman](https://www.stat.cmu.edu/~larry/). 
 
 My research develops nonparametric statistical methods that leverage machine learning to estimate causal effects from complex observational data. I focus on three key areas:
