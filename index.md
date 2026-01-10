@@ -2,24 +2,18 @@
 layout: default
 ---
 
-I am a Postdoctoral Fellow in the [Division of Biostatistics](https://med.nyu.edu/departments-institutes/population-health/divisions-sections-centers/biostatistics/) in the NYU Grossman School of Medicine, where I am fortunate to work with [Iván Díaz](https://www.idiaz.xyz/) and [Wenbo Wu](https://www.wenbowu.me/). We are developing theory and methods at the intersection of statistics, machine learning, and causal inference, and applying them to problems in healthcare. I also help the [Tech & Society lab](https://www.anxiousgeneration.com/research) team assess the evidence of the causal effects of social media use on mental health. Before my postdoc, I did my PhD in [Statistics at Carnegie Mellon University](http://stat.cmu.edu/), where I was advised by [Zach Branson](https://sites.google.com/site/zjbranson/?pli=1) and [Edward Kennedy](https://www.ehkennedy.com/). Additionally, I had the pleasure of working with [Siva Balakrishnan](https://www.stat.cmu.edu/~siva/) and [Larry Wasserman](https://www.stat.cmu.edu/~larry/). 
+I am a Research Scientist at [Ataraxis AI](https://www.ataraxis.ai/), where I build cutting-edge AI models for cancer prognosis and treatment selection.
 
-My research develops nonparametric statistical methods that leverage machine learning to estimate causal effects from complex observational data. I focus on three key areas:
+Before joining Ataraxis AI, I was a Postdoctoral Fellow in the [Division of Biostatistics](https://med.nyu.edu/departments-institutes/population-health/divisions-sections-centers/biostatistics/) at NYU Grossman School of Medicine, where I worked with [Iván Díaz](https://www.idiaz.xyz/) and [Wenbo Wu](https://www.wenbowu.me/) on theory and methods at the intersection of statistics, machine learning, and causal inference, with applications in healthcare. I also collaborated with the [Tech & Society Lab](https://www.anxiousgeneration.com/research) to assess the causal effects of social media use on mental health. I received my PhD in [Statistics from Carnegie Mellon University](http://stat.cmu.edu/), where I was advised by [Zach Branson](https://sites.google.com/site/zjbranson/?pli=1) and [Edward Kennedy](https://www.ehkennedy.com/), and worked closely with [Siva Balakrishnan](https://www.stat.cmu.edu/~siva/) and [Larry Wasserman](https://www.stat.cmu.edu/~larry/).
 
-1. ensuring these methods remain robust when key causal assumptions like positivity and unconfoundedness are violated (e.g., [1](https://www.degruyter.com/document/doi/10.1515/jci-2023-0024/html), [2](https://arxiv.org/abs/2405.08738)), 
-2. developing flexible yet efficient estimators that maintain strong statistical guarantees while adapting to complex, high-dimensional data (e.g., [1](https://arxiv.org/abs/2403.15175), [2](https://arxiv.org/abs/2410.13522)), and
-3. creating accessible software implementations that make these advanced methods available to applied researchers (e.g., [lmtp::flip](https://github.com/alecmcclean/lmtp)).
-
-My research has been recognized with the [Ten Have](https://sci-info.org/tom-ten-have-award/) award for exceptional research in causal inference.
-
-This past year, I've focused on longitudinal data. I've developed novel interventions and causal effects that address positivity violations, along with efficient sequential double ML estimators in my recent work [here](https://arxiv.org/abs/2506.09188) and [here](https://arxiv.org/abs/2507.10774). 
+My research develops nonparametric statistical methods that leverage machine learning to estimate causal effects from complex observational and longitudinal data, with an emphasis on robustness to assumption violations and statistical efficiency in high-dimensional settings. This work has been recognized with the [Tom Ten Have Award](https://sci-info.org/tom-ten-have-award/) for exceptional research in causal inference. Recently, I have focused on longitudinal causal inference, developing new interventions and efficient sequential double machine learning estimators that address positivity violations.
 
 ---
 ## Connect 
 
 * Linkedin: [alec-mcclean](https://www.linkedin.com/in/alec-mcclean/)
 * Bluesky: [alecmcclean.bsky.social](https://bsky.app/profile/alecmcclean.bsky.social)
-* Email: [hadera01@nyu.edu](mailto:hadera01@nyu.edu)
+* Email: [amcclean@alumni.cmu.edu](mailto:amcclean@alumni.cmu.edu)
 * Github: [alecmcclean](https://github.com/alecmcclean)
 
 ---
