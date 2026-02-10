@@ -31,11 +31,12 @@ My research develops nonparametric statistical methods that leverage machine lea
 
 - **Longitudinal weighted and trimmed treatment effects with flip interventions** \\
 	***A. McClean***, A. Levis, N. Williams, and I. Díaz \\
+	R and R at *JASA*
 	[arxiv](https://arxiv.org/abs/2506.09188), [bluesky](https://bsky.app/profile/alecmcclean.bsky.social/post/3lrggenboy22o), [slides](files/acic-2025.pdf)
 
-- **Fair comparisons of causal parameters with many treatments and positivity violations** \\
+- **Comparing causal parameters with many treatments and positivity violations** \\
 	***A. McClean***, Y. Li, S. Bae, M. A. McAdams-DeMarco, I. Díaz, and W. Wu \\
-	R and R at Biometrika \\
+	Minor revision at *Biometrika* \\
 	[arxiv](https://arxiv.org/abs/2410.13522), [bluesky](https://bsky.app/profile/alecmcclean.bsky.social/post/3ld7w5nsbjk2i), [slides](files/alec-mcclean-enar-presentation.pdf)
 
 - **Stochastic interventions, sensitivity analysis, and optimal transport** \\
@@ -44,12 +45,11 @@ My research develops nonparametric statistical methods that leverage machine lea
 
 - **Calibrated sensitivity models** \\
 	***A. McClean***, Z. Branson, and E.H. Kennedy \\
-	Minor revision at Biometrika \\
-	[arxiv](https://arxiv.org/abs/2405.08738), [bluesky](https://bsky.app/profile/alecmcclean.bsky.social/post/3leefjb6ewc2v), [slides](files/CSM_slides_ACIC2024)
+	*Biometrika*, 2026, [journal](https://academic.oup.com/biomet/advance-article-abstract/doi/10.1093/biomet/asag001/8442487?redirectedFrom=fulltext), [arxiv](https://arxiv.org/abs/2405.08738), [bluesky](https://bsky.app/profile/alecmcclean.bsky.social/post/3leefjb6ewc2v), [slides](files/CSM_slides_ACIC2024)
 
 - **Double Cross-fit Doubly Robust Estimators: Beyond Series Regression** \\
 	***A. McClean***, S. Balakrishnan, E.H. Kennedy, and L. Wasserman \\
-	*Winner of Tom Ten Have award at ACIC 2023*, Major revision at JRSSB \\
+	*Winner of Tom Ten Have award at ACIC 2023*, Minor revision at JRSSB \\
 	[arxiv](https://arxiv.org/abs/2403.15175), [bluesky](https://bsky.app/profile/alecmcclean.bsky.social/post/3leefihmly22v)
 
 - **Nonparametric Estimation of Conditional Incremental Effects** \\
@@ -73,6 +73,8 @@ Contributor to [`npcausal`](https://github.com/ehkennedy/npcausal) package
 
 ---
 ## News
+(Jan '26) Our paper on calibrated sensitivity models was accepted at *Biometrika* [link](https://academic.oup.com/biomet/advance-article-abstract/doi/10.1093/biomet/asag001/8442487?redirectedFrom=fulltext)
+
 (Sept '25) Our new paper on non-overlap average treatment effect bounds is on [arxiv](https://arxiv.org/abs/2509.20206)
 
 (Jul '25) Our new paper on counterfactual longitudinal propensity score weighting is on [arxiv](https://arxiv.org/pdf/2507.10774)
